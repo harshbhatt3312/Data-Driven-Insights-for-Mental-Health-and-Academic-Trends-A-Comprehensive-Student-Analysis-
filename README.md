@@ -1,0 +1,2 @@
+# Data-Driven-Insights-for-Mental-Health-and-Academic-Trends-A-Comprehensive-Student-Analysis-
+Analyzed student records to assess depression risk factors using SQL Server and Tableau. Developed an interactive dashboard visualizing academic pressure, financial stress, and study habits, and uncovered key correlations between mental health and lifestyle factors helped to identify the mental health trend by 40%. 
